@@ -118,7 +118,7 @@ else:
 
 ### LCEL RAG Chain
 
-# Asegúrate de imprimir el contexto y la pregunta antes de la invocación
+# imprimir el contexto y la pregunta antes de la invocación
 # print(f"Contexto antes de la invocación: {context}")
 # print(f"Pregunta antes de la invocación: {query}")
 
